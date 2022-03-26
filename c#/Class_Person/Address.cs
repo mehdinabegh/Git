@@ -8,5 +8,6 @@ namespace Class_Person
 {
     internal class Address
     {
+        public int Code { get; set; }
     }
 }
