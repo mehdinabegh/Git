@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-Class_Person.Person p1=new Class_Person.Person();
+Class_Person.Person p1 = new Class_Person.Person();
 p1.Name = "ali";
 p1.Family = "alavi";
 p1.ID = 1;
